@@ -11,4 +11,4 @@ Elderly fall prevention and detection becomes extremely crucial with the fast ag
 ![Hardwre Setup](https://github.com/radar-lab/mmfall/blob/master/misc/hardware_setup.png)
 
 ## Source Codes:
-See ~/mmfall/mmfall.ipynb
+See ~/src/mmfall.ipynb
