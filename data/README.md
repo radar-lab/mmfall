@@ -2,10 +2,10 @@
 Two hours of normal ADL, including randonly walking, sitting on the floor, crouching, bending, etc. No labeling. This dataset is for semi-supervised training (no falls in this dataset).
 
 ## D1:
-Randomly walking with one forward fall, one backward fall, one left fall, one right fall, one sitting on the floor, one crouching, one bending, and one jump. No lableing. This small dataset is only for illustration purposes.
+Randomly walking with one forward fall, one backward fall, one left fall, one right fall, one sitting on the floor, one crouching, one bending, and one jump. This small dataset is only for illustration purposes.
 
 ## D2:
-Randomly walking with 15 forward falls, 15 backward falls, 10 left falls, 10 right falls, 50 sitting on the floor, 50 crouching, 50 bending, and 50 jump. Labeling fall as ground truth. This dataset is for inference.
+Randomly walking with 15 forward falls, 15 backward falls, 10 left falls, 10 right falls, 50 sitting on the floor, 50 crouching, 50 bending, and 50 jump. Labeling fall as ground truth. This dataset is for inference, and ROC is evaluated on this dataset.
 The associated .csv file contains the ground truth when the motion happens.
 
 ## ros_bag_files
