@@ -1,0 +1,13 @@
+  <!-- Usb camera node -->
+  <node name="usb_webcam" pkg="usb_webcam" type="usb_webcam_node" output="screen" >
+    <param name="video_device" value="/dev/video0" />
+    <param name="camera_info_url" value="file://$(find usb_webcam)/cfg/elp-usb8mp02g-l36.yaml" />
+    <param name="image_width" value="640" />
+    <param name="image_height" value="480" />
+    <param name="pixel_format" value="yuyv" />
+    <param name="camera_frame_id" value="usb_webcam" />
+    <param name="io_method" value="mmap"/>
+    <param name="framerate" value="30" />
+    <param name="autoexposure" value="true" />
+    <param name="autofocus" value="true" />
+  </node>
