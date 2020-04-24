@@ -1,7 +1,7 @@
 ## Project Title:
 mmFall: Fall Detection using 4D MmWave Radar and Variational Recurrent Autoencoder
 
-## Preprinted Paper
+## Preprint Paper
 https://arxiv.org/abs/2003.02386
 
 ## Project Description:
