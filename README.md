@@ -10,7 +10,7 @@ Elderly fall prevention and detection becomes extremely crucial with the fast ag
 ## Proposed mmFall System:
 ![mmfall](https://github.com/radar-lab/mmfall/blob/master/misc/mmfall.png)
 
-## Hardware Setup:
+## Experiment Setup:
 ![Hardwre Setup](https://github.com/radar-lab/mmfall/blob/master/misc/hardware_setup.png)
 
 ## Source Codes:
