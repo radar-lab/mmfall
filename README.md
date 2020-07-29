@@ -11,7 +11,7 @@ Elderly fall prevention and detection becomes extremely crucial with the fast ag
 ![mmfall](https://github.com/radar-lab/mmfall/blob/master/misc/mmfall.png)
 
 ## Video Presentation
-[![videopresentation](https://github.com/radar-lab/mmfall/blob/master/misc/0.png)](https://drive.google.com/file/d/1aClSbmZ-mjsR8Ap6FQAud667QbaYWerg/view?usp=sharing)
+[![videopresentation](https://github.com/radar-lab/mmfall/blob/master/misc/0.jpg)](https://drive.google.com/file/d/1aClSbmZ-mjsR8Ap6FQAud667QbaYWerg/view?usp=sharing)
 
 
 ## Experiment Setup:
