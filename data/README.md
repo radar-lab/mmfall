@@ -1,3 +1,12 @@
+## Data Visualization Steps
+1. Install Robotic Operating Systems (ROS) Kinetic on Ubuntu 16.04.
+2. Open ternimal and excute the commmand below to open the ROS core
+> roscore run
+3. Open another terminal to run the command below to open ROS RVIZ
+> rosrun rviz rviz -d rviz_cfg_mmfall_raw.rviz
+4. Open a new terminal to run the command below to show the camera video and radar point cloud sinuteneouely. The bag files can be found in the ors_bag_files folder.
+> rosbag play *.bag 
+
 ## DS0:
 Two hours of normal ADL, including randonly walking, sitting on the floor, crouching, bending, etc. No labeling. This dataset is for semi-supervised training (no falls in this dataset).
 
